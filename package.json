@@ -28,7 +28,7 @@
     "posttest": "npm run lint"
   },
   "dependencies": {
-    "immutable": "^3.8.1",
+    "immutable": "^4.0.0-rc.1",
     "prop-types": "^15.7.2",
     "seamless-immutable": "^7.1.3"
   },
